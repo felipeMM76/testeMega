@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "345390549015",
+    "firebase_url": "https://teste-mega-db.firebaseio.com",
+    "project_id": "teste-mega-db",
+    "storage_bucket": "teste-mega-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345390549015:android:13c9fdabd17904ff",
+        "android_client_info": {
+          "package_name": "com.testmega.megatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345390549015-pa14ruso4h8k668ucdft453nbrdn84cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9dXHqsK-MUW1pijilW_Y8k9BIKtkDBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
